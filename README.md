@@ -1,2 +1,10 @@
-# Facial-Recognition-with-Rpi4
-Facial recognition with a Raspberry Pi 4 (RPI4) is a cutting-edge technology that leverages the capabilities of the Raspberry Pi 4, to identify and authenticate individuals. A facial recognition system with an RPI4 can serve various practical applications security and access control, smart doorbell systems, or even personalized user experiences.
+# Raspberry Pi 4 Facial Recognition
+Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
+
+![RaspberryPi Facial Rec](https://github.com/carolinedunn/facial_recognition/blob/main/photo/screenshot.png)
+
+Materials: Raspberry Pi 4 and Webcam
+
+![RaspberryPi Facial Rec](https://github.com/carolinedunn/facial_recognition/blob/main/photo/webcamandRPi4.JPG)
+
+Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
